@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslt_project.xslt"?>
+<guitars>
+	<guitar type="classic">
+		<model>Valencia VC204</model>
+		<year>1952</year>
+		<country>USA</country>
+		<image>https://www.muziker.pl/image/2/0069/g95v.vc204_ant.jpg</image>
+	</guitar>
+	
+	<guitar type="classic">
+		<model>Yamaha C40</model>
+		<year>1972</year>
+		<country>Japan</country>
+		<image>https://www.muziker.pl/image/2/0015/uSbJ.c40_classical_guitar.jpg</image>
+	</guitar>
+	
+	<guitar type="classic">
+		<model>Hohner HC06</model>
+		<year></year>
+		<country>Germany</country>
+		<image>https://www.muziker.pl/image/2/0061/f8wX.hc06.jpg</image>
+	</guitar>
+	
+	<guitar type="acoustic">
+		<model>Fender CT-60S</model>
+		<year>1987</year>
+		<country>USA</country>
+		<image>https://images.static-thomann.de/pics/prod/453712.jpg</image>
+	</guitar>
+	
+	<guitar type="acoustic">
+		<model>Harley Benton CG-45 NS</model>
+		<year>1964</year>
+		<country>USA</country>
+		<image>https://images.static-thomann.de/pics/prod/142800.jpg</image>
+	</guitar>
+	
+	<guitar type="acoustic">
+		<model>Gretsch G5021E-LTD Rancher Penguin</model>
+		<year>1895</year>
+		<country>USA</country>
+		<image>https://images.reverb.com/image/upload/s--_6b4rsmJ--/f_auto,t_large/v1541613536/oa12jeni2cpomnm2fygu.jpg</image>
+	</guitar>
+	
+	<guitar type="electric">
+		<model>Fender Squier Bullet Strat </model>
+		<year>1994</year>
+		<country>USA</country>
+		<image>https://www.muziker.pl/image/2/0121/fjJ2.037_0005_532.jpg</image>
+	</guitar>
+	
+	<guitar type="electric">
+		<model>Stagg J200 Sunburst</model>
+		<year>1955</year>
+		<country>Belgium</country>
+		<image>https://www.muziker.pl/image/2/0019/3aFg.j200_sunburst.jpg</image>
+	</guitar>
+	
+	<guitar type="electric">
+		<model>Encore E6LB Electric Guitar Laguna Blue</model>
+		<year>2010</year>
+		<country>China</country>
+		<image>https://www.muziker.pl/image/2/0109/Qk4D.e6lb.jpg</image>
+	</guitar>
+
+	<guitar type="electric">
+		<model>SX SST/ASH/R Ash RW</model>
+		<year>1960</year>
+		<country>Japan</country>
+		<image>https://www.muziker.pl/image/2/0049/PkkO.sstashr.jpg</image>
+	</guitar>
+</guitars>
